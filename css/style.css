@@ -1,20 +1,20 @@
 .navbar-brand {
-    font-family: 'Georgia', serif; 
-    font-weight: bold;
-    font-size: 25px;
+  font-family: "Georgia", serif;
+  font-weight: bold;
+  font-size: 25px;
 }
 
 .navbar-nav {
-    font-family: 'Georgia', serif;
+  font-family: "Georgia", serif;
 }
 
 p {
-    font-family: 'Georgia', serif; 
-    color: #bebdc1;
+  font-family: "Georgia", serif;
+  color: #bebdc1;
 }
 
 h2 {
-    font-family: 'Georgia', serif; 
-    font-weight: bold;
-    color: #ffffff;
+  font-family: "Georgia", serif;
+  font-weight: bold;
+  color: #ffffff;
 }
