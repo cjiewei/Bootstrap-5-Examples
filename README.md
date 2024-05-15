@@ -4,6 +4,6 @@
 
 **It's the perfect topic for practice!**
 
-# [Check out my TTPD site](https://cjiewei.github.io/Bootstrap-5-Examples/) 🧸🥂
+# [Check out my site](https://cjiewei.github.io/Bootstrap-5-Examples/) 🧸🥂
 
 ![Website Thumbnail](/thumb.png)
